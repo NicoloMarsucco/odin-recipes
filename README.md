@@ -18,3 +18,7 @@ Organized folder structure using a ```recipes/``` directory
 ## Live Site
 
 The site can be viewed [here](https://nicolomarsucco.github.io/odin-recipes/)
+
+## Acknowledgments
+
+- Images: [Pexels](https://www.pexels.com/)
